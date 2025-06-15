@@ -1,6 +1,6 @@
 # Internationals.fyi
 
-A comprehensive platform for international students to explore and compare universities in the United States.
+An all-in-one comprehensive platform for international students to explore and compare universities in the United States.
 
 ## Features
 
